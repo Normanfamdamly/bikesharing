@@ -22,7 +22,7 @@ The project was created as a means to convince our investors to invest in a bike
     
  ## Results
  ---
-This can be all reviewed in my story on Tabeau here [Tableau Story](https://courses.bootcampspot.com/courses/1605/assignments/33924?module_item_id=669004)
+This can be all reviewed in my story on Tabeau here [Tableau Story](https://public.tableau.com/views/Book1-CitiBikes/CitiBike-Module14Challenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 There is a defined patter to the starting and ending locations for the CitiBikes.  You will see how they are clustered in the city in following two charts.  This shows us that in the denser area of Des Moines where there is a large mix use are full of offices, apartments and restaurants the bike rentals will do very well.
  
